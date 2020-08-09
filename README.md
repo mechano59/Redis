@@ -1,10 +1,10 @@
 # Redis
 ![Redis_logo](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png)
 ## Table of Contents
- - What Is Redis
- - Prerequisite
- - Installing and Checking Redis
- - The Frustration and Solution
+ - [What Is Redis](https://github.com/mechano59/Redis/blob/master/README.md#what-is-redis)
+ - [Prerequisite](https://github.com/mechano59/Redis/blob/master/README.md#prerequisite)
+ - [Installing and Checking Redis](https://github.com/mechano59/Redis/blob/master/README.md#installing-and-checking-redis)
+ - [The Frustration and Solution](https://github.com/mechano59/Redis/blob/master/README.md#the-frustration-and-solution)
 
 ## What Is Redis
 Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes with radius queries and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.
