@@ -16,6 +16,9 @@ sudo apt upgrade
 ```
 ## Installing and Checking Redis
 In order to install redis, you first need to download the tar.gz file from their [website](https://redis.io/download). 
+
+**Note that** : You can also use `sudo apt-get install redis-server` to install Redis but that might install a much older version which might not be ideal for our purpose.
+
 After the download is finished,navigate to the directory and extract the file. In my case it's in the **Downloads** folder.
 
     cd Downloads
